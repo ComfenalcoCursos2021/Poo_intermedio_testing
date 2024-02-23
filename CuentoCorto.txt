@@ -1,2 +1,9 @@
 erase una vez
+<<<<<<< HEAD
 linea Sergio
+=======
+pausa dramatica
+*ayyyy - exclamo el noble caballero
+*aaayyyy --volvio a exclamar
+el caballero casi muriendo le pidio a un noble que le guardara la espada
+>>>>>>> 77286a07fdd13b8e9a39a433d18ccbe9f0f4b02f
